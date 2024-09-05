@@ -44,19 +44,19 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
     <Reference Include="ZcWindows">
-      <HintPath>ADDPATH</HintPath>
+      <HintPath>libs\ZcWindows.dll</HintPath>
     </Reference>
     <Reference Include="ZdWindows">
-      <HintPath>ADDPATH</HintPath>
+      <HintPath>libs\ZdWindows.dll</HintPath>
     </Reference>
     <Reference Include="ZwDatabaseMgd">
-      <HintPath>ADDPATH</HintPath>
+      <HintPath>libs\ZwDatabaseMgd.dll</HintPath>
     </Reference>
     <Reference Include="ZwDatabaseMgdBrep">
-      <HintPath>ADDPATH</HintPath>
+      <HintPath>libs\ZwDatabaseMgdBrep.dll</HintPath>
     </Reference>
     <Reference Include="ZwManaged">
-      <HintPath>ADDPATH</HintPath>
+      <HintPath>libs\ZwManaged.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
